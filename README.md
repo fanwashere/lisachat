@@ -1,5 +1,5 @@
 # LisaChat
-
+A basic chat app using websockets to learn Node.js, React, and Socket.io.
 
 ## Structure
 The overall structure of the project is defined by [create-react-app](https://github.com/facebookincubator/create-react-app).
